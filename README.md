@@ -1,15 +1,13 @@
 <h1 align="center">Hi 👋, I'm Abubakar Issa</h1>
 <h3 align="center">A passionate Mobile app developer from Nigeria</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=teewhydot" alt="teewhydot" /></a> </p>
-
 <p align="left"> <a href="https://twitter.com/tee_of_gui" target="blank"><img src="https://img.shields.io/twitter/follow/tee_of_gui?logo=twitter&style=for-the-badge" alt="tee_of_gui" /></a> </p>
 
 - 🔭 I’m currently working on [Foodly](https://github.com/Teewhydot/foodly)
 
 - 🌱 I’m currently learning **Android Development with kotlin and Jetpack Compose**
 
-- 🤝 I’m looking for help with **Flutter Riverpod and Bloc Statemanagement**
+- 🤝 I’m looking for help with **Bloc and Mobx Statemanagement**
 
 - 👨‍💻 All of my projects are available at [https://teeofgui.netlify.app](https://teeofgui.netlify.app)
 
