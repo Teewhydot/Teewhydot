@@ -9,7 +9,7 @@
 
 - 🤝 I’m looking for help with **Bloc and Mobx Statemanagement**
 
-- 👨‍💻 All of my projects are available at [https://teeofgui.netlify.app](https://teeofgui.netlify.app)
+- 👨‍💻 All of my projects are available at [https://teeofgui.tech](https://teeofgui.tech)
 
 - 💬 Ask me about **Flutter, Firebase,Rest Apis, Provider State Management**
 
