@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://twitter.com/tee_of_gui" target="blank"><img src="https://img.shields.io/twitter/follow/tee_of_gui?logo=twitter&style=for-the-badge" alt="tee_of_gui" /></a> </p>
 
-- 🌱 I’m currently learning **Data analysis**
+- 🌱 I’m currently learning **Dependency Injection**
 
 - 👨‍💻 All of my projects are available at [https://github.com/Teewhydot?tab=repositories](https://github.com/Teewhydot?tab=repositories)
 
