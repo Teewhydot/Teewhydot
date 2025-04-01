@@ -1,19 +1,19 @@
 <h1 align="center">Hi 👋, I'm Abubakar Issa</h1>
-<h3 align="center">A passionate Flutter developer</h3>
+<h3 align="center">Flutter Developer | Native Android | Kotlin | Jetpack Compose</h3>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=teewhydot" alt="teewhydot" /></a> </p>
 
 <p align="left"> <a href="https://twitter.com/tee_of_gui" target="blank"><img src="https://img.shields.io/twitter/follow/tee_of_gui?logo=twitter&style=for-the-badge" alt="tee_of_gui" /></a> </p>
 
-- 🌱 I’m currently learning **Background service**
+- 🌱 I’m currently learning **Advanced Coroutines and Ktor/Retrofit**
 
 - 👨‍💻 All of my projects are available at [https://github.com/Teewhydot?tab=repositories](https://github.com/Teewhydot?tab=repositories)
 
-- 💬 Ask me about **Flutter,Dart,Firebase,Rest Apis, Provider State Management,Bloc State management.**
+- 💬 Ask me about **Flutter,Dart,Firebase,Rest Apis, Provider State Management,Bloc State management,Kotlin, Jetpack Compose, Room Ktor Retrofit, SQLite**
 
 - 📫 How to reach me **tchipsical@gmail.com**
 
-- ⚡ Fun fact **I watch anime.**
+- ⚡ Fun fact **Solo Levelling is the new meta**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
