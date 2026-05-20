@@ -1,17 +1,15 @@
 <h1 align="center">Hi 👋, I'm Abubakar Issa</h1>
-<h3 align="center">Full Stack Software Developer | Flutter Developer | Golang Backend Developer </h3>
+<h3 align="center">Mobile Engineer | iOS | Android | Flutter </h3>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=teewhydot" alt="teewhydot" /></a> </p>
 
 <p align="left"> <a href="https://twitter.com/tee_of_gui" target="blank"><img src="https://img.shields.io/twitter/follow/tee_of_gui?logo=twitter&style=for-the-badge" alt="tee_of_gui" /></a> </p>
 
-- 🌱 I’m currently learning **Protocol Buffers and gRPC in golang**
-
 - 👨‍💻 All of my projects are available at [https://github.com/Teewhydot?tab=repositories](https://github.com/Teewhydot?tab=repositories)
 
-- 💬 Ask me about **Flutter,Dart,GOlang,Gin,gRPC,Cockroach and MongoDB,Firebase,Rest Apis, Provider State Management,Bloc State management,Kotlin, Jetpack Compose, Room Ktor Retrofit,Rest APIs, SQLite**
+- 💬 Ask me about **Flutter,Dart,Swift,SwiftUI,Firebase,Rest Apis, Provider State Management,Bloc State management,Kotlin, Jetpack Compose, Room Ktor Retrofit,Rest APIs, SQLite**
 
-- 📫 How to reach me **tchipsical@gmail.com**
+- 📫 How to reach me **abubakarissa47722@gmail.com**
 
 - ⚡ Fun fact **Solo Levelling is the new meta**
 
